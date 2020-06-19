@@ -3,6 +3,7 @@ Python Tesseract app that allows you to convert image text to text.
 
 
 Note : This assumes that you already have python downloaded on your computer.
+Note : VS Code was used for this application
 
 The first step needed to allow for this program to work with your image files you would like is to (Windows Users) pip install pytesseract in your command terminal. 
 
